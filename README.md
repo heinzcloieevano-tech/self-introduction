@@ -1,0 +1,2 @@
+index.html
+information.html
